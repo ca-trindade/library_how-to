@@ -1,5 +1,5 @@
 # Library - How to
-Resource library especially for **JS/TS and Go**
+> Resource library especially for **JS/TS and Go**
 
 ### Go
 
