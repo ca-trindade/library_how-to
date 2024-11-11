@@ -3,8 +3,8 @@ Resource library especially for **JS/TS and Go**
 
 Go
 
-> Português
+### Português
 
-[Aprenda Go](#https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+[Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
-[Gophercises](#https://gophercises.com/)
+[Gophercises](https://gophercises.com/)
