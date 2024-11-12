@@ -13,3 +13,11 @@ Português
 [Gophercises](https://gophercises.com/)
 
 [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes)
+
+
+
+## Javascript
+
+English
+
+[Javascript Visual Explanations](https://github.com/hex13/javascript-visual-explanations#javascript-visual-explanations)
