@@ -8,11 +8,11 @@
 
 Português
 
-[Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+🎥[Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
-[Gophercises](https://gophercises.com/)
+🧠[Gophercises](https://gophercises.com/)
 
-[Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes)
+📘[Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes)
 
 
 
@@ -20,4 +20,4 @@ Português
 
 English
 
-[Javascript Visual Explanations](https://github.com/hex13/javascript-visual-explanations#javascript-visual-explanations)
+📘[Javascript Visual Explanations](https://github.com/hex13/javascript-visual-explanations#javascript-visual-explanations)
