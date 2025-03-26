@@ -14,6 +14,9 @@ Português
 
 📘[Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes)
 
+English
+
+[Go Concurrency](https://divan.dev/posts/go_concurrency_visualize/)
 
 
 ## Javascript
